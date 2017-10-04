@@ -59,7 +59,7 @@
           <div class="card-pf">
             <div class="card-pf-heading">
               <h2 class="card-pf-title">
-                Logger
+                Lumberjack
               </h2>
             </div>
             <div class="card-pf-body">
